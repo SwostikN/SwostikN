@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | Building Scalable & Modern Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Advocate;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+Advocate;AAlways+Learning+New+Technologies" />
 </p>
 
 <p align="center">
